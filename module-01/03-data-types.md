@@ -1,6 +1,6 @@
 # Data Types
 
-#### These are string, number, Boolean, null, undefined, BigInt and symbol.
+**These are string, number, Boolean, null, undefined, BigInt and symbol.**
 
 
 #### STRINGS and NUMBERS
