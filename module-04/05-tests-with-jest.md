@@ -59,4 +59,6 @@ TestRunner('returns the number plus 5', () => {
 })
 ```
 
+![result test](https://i.ibb.co/gmXB4BT/Screen-Shot-2022-10-29-at-23-34-48.png)
+
 First I exported the `addFive` function from my `addFive.js` file using a `const`. My expectation is that this function returns whatever value I input plus five. To check, I'll use the test method with a string as a parameter that describes the test. This string will be output in the command line when I run the test along with the words `pass` or `fail`. And the function to run when I execute the `npm run test` command. The function will check if my expectation is correct. 
