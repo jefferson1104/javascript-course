@@ -1,5 +1,5 @@
 <div>
-  <a href="https://coursera.org/verif y/8RLZD7X768QZ" target="_blank">
+  <a href="https://coursera.org/verify/8RLZD7X768QZ" target="_blank">
     <img src="./certificado.png" />
   </a>
 </div>
